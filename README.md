@@ -18,7 +18,7 @@ Sou estudante de Sistemas de Informação com foco em desenvolvimento back-end u
 ## Entre em contato
 <div align="center">
 
-  <a href="www.linkedin.com/in/miguelsguimaraes">
+  <a href="https://www.linkedin.com/in/miguelsguimaraes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/itsmigueell/">
