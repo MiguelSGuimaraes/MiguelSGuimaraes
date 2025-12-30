@@ -1,16 +1,30 @@
-## Hi there 👋
+# Miguel Santos Guimarães
 
-<!--
-**MiguelSGuimaraes/MiguelSGuimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na FEPI (Fundação de Ensino e Pesquisa de Itajubá)  
+💻 Back-end em formação | Java
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou estudante de Sistemas de Informação com foco em desenvolvimento back-end utilizando Java. Atualmente estudo orientação a objetos, APIs REST, fundamentos de arquitetura de software e boas práticas de código, buscando construir uma base técnica sólida antes de avançar para temas mais complexos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias e conceitos em estudo
+- Java  
+- APIs REST  
+- Orientação a Objetos  
+- Git e controle de versão  
+- Fundamentos de arquitetura de software  
+- SQL (nível básico)
+
+## Entre em contato
+<div align="center">
+
+  <a href="www.linkedin.com/in/miguelsguimaraes">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/itsmigueell/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:miguelsantosguimaraes458@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
